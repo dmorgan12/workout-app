@@ -60,9 +60,7 @@
       let fresh = pool.filter(m => !used.has(m.id));
       if (!fresh.length) fresh = pool;
       if (!fresh.length) return null;
-      fresh.sort((a, b) => (a.eh === b.eh ? 0 : a.eh ? -1 : 1));
-      const ehOnly = fresh.filter(m => m.eh); const list = ehOnly.length && r() < 0.85 ? ehOnly : fresh;
-      const m = list[Math.floor(r() * list.length)];
+      const m = fresh[Math.floor(r() * fresh.length)];
       ctx.taken.add(m.id); return m;
     }
     return { pick, byId };

@@ -263,8 +263,8 @@
   function swapDialog(date, key) {
     const d = dayFor(date); const w = workoutFor(d); const [sec, bi, ii] = key.split('.').map(x => isNaN(x) ? x : +x);
     const cur = sec === 'b' ? w.blocks[bi].items[ii] : sec === 'f' ? w.finisher.items[ii] : w[sec][ii];
-    const opts = MOVES.filter(m => m.category === cur.category && m.id !== cur.id && P.usable(m, w.loc) && !(S.knee[date] && m.kneeStress)).sort((a, b) => (b.eh - a.eh) || a.name.localeCompare(b.name));
-    $('#dlg').innerHTML = `<h3>Swap ${esc(cur.name)}</h3><p class="small">Same category (${cur.category}), ${w.loc} equipment.</p>` + opts.map(m => `<button class="opt" data-pick="${m.id}" data-key="${key}"><b>${esc(m.name)}</b>${m.eh ? '' : ' <span class="eq">non-EH exception</span>'}<br><span class="small">${esc(m.explain)}</span></button>`).join('') + '<button class="big" onclick="this.closest(\'dialog\').close()">Cancel</button>';
+    const opts = MOVES.filter(m => m.category === cur.category && m.id !== cur.id && P.usable(m, w.loc) && !(S.knee[date] && m.kneeStress)).sort((a, b) => a.name.localeCompare(b.name));
+    $('#dlg').innerHTML = `<h3>Swap ${esc(cur.name)}</h3><p class="small">Same category (${cur.category}), ${w.loc} equipment.</p>` + opts.map(m => `<button class="opt" data-pick="${m.id}" data-key="${key}"><b>${esc(m.name)}</b><br><span class="small">${esc(m.explain)}</span></button>`).join('') + '<button class="big" onclick="this.closest(\'dialog\').close()">Cancel</button>';
     $('#dlg').showModal();
   }
 
