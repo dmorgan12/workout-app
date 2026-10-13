@@ -20,9 +20,9 @@
     // build forward until today is covered
     let guard = 0;
     while (lastCycle() && P.addDays(lastCycle().start, 6) < t && guard++ < 60) newCycle(P.addDays(lastCycle().start, 7));
-    // auto-build next week on day 6 of the current cycle
-    const c = cycleFor(t);
-    if (c && c === lastCycle() && t >= P.addDays(c.start, 5)) newCycle(P.addDays(c.start, 7));
+    // always keep the next 7 days (today..today+6) planned
+    const horizon = P.addDays(t, 6); let g2 = 0;
+    while (lastCycle() && P.addDays(lastCycle().start, 6) < horizon && g2++ < 10) newCycle(P.addDays(lastCycle().start, 7));
     save();
   }
   function newCycle(start) {
