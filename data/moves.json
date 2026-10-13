@@ -1962,5 +1962,274 @@
   "kneeStress": false,
   "heavy": false,
   "perSide": false
+ },
+ {
+  "id": "fd_two_hand_bent_row",
+  "name": "Two-hand bent-over row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hinge forward with a flat back, hold the bell with both hands, and row it to your belly button.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_rot_high_pull",
+  "name": "Single-arm rotational high pull",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "From a hinge, pull the bell up and out to shoulder height while pivoting your back foot and rotating your torso.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "fd_jump_lunge_rot",
+  "name": "Alternating jump lunge + KB rotation",
+  "category": "conditioning",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold the bell at your chest, jump-switch your legs into a lunge, and rotate the bell over your front knee each rep.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_kb_thruster",
+  "name": "Kettlebell thruster",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Squat with the bell at your chest, then drive up and press it overhead in one smooth motion.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_devils_halo",
+  "name": "Devil's halo",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold the bell by the horns and circle it around your head, then reverse direction each rep. Elbows in, ribs down.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_around_world",
+  "name": "Around the world",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Standing tall, pass the bell hand to hand around your waist, keeping your hips and shoulders still.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_crush_curl_press",
+  "name": "Crush-grip curl + press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Squeeze the bell's sides in both hands, curl it to your chest, then press it overhead to full lockout.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_horn_pushup",
+  "name": "Horn push-up",
+  "category": "push",
+  "equipment": [
+   "KB"
+  ],
+  "explain": "Grip the bell's horns with the bell on the floor, elbows tucked, and do a push-up with your chest to the bell.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_pullover_tri_ext",
+  "name": "Pullover + triceps extension",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Lying on your back, take the bell from over your chest to behind your head, pull it back, then bend only your elbows to lower it behind your head and extend.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_front_rack_rev_lunge",
+  "name": "Front-rack reverse lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold the bell at your shoulder and step back into a lunge, then drive up through your front foot.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "fd_horizontal_swing",
+  "name": "Horizontal swing",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Stand with feet wide, hold the bell by the horns at chest height with arms out, and swing it side to side, turning your hips and pivoting your feet.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_kneeling_woodchop",
+  "name": "Kneeling wood chop",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "On both knees, take the bell from over one shoulder diagonally down across your body to the opposite hip.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "fd_pull_through_pushup",
+  "name": "Plank pull-through + push-up",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "In a high plank, drag the bell under your body to the other side, then do a push-up. Keep your hips square.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_forearm_plank",
+  "name": "Forearm plank",
+  "category": "core",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "On your forearms and toes, body straight, glutes and abs squeezed. Hold.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_prying_goblet",
+  "name": "Prying goblet squat",
+  "category": "mobility",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Sit at the bottom of a goblet squat and use your elbows to gently push your knees out, shifting side to side.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "fd_pushup_downdog",
+  "name": "Push-up to down-dog",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Do a push-up, then push your hips up and back into an upside-down V, stretching your calves and shoulders.",
+  "source": "Fit Dad Company Kettlebell Free Week (reference)",
+  "url": "https://fitdadcompany.com",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
  }
 ]
