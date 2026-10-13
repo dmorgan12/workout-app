@@ -1,0 +1,2 @@
+<!doctype html><script>localStorage.clear();const sh=[];for(let i=0;i<60;i+=3){const d=new Date(2026,9,12+i,12);sh.push(d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'));}
+localStorage.setItem('ehWorkoutApp.v1',JSON.stringify({shifts:sh,syncMethod:'pattern',view:location.hash==='#sp'?'today':(location.hash.slice(1)||'today'),sel:location.hash==='#sp'?'2026-10-14':null}));location.replace('../index.html'+(location.hash==='#sp'?'':location.hash));</script>

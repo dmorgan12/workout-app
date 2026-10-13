@@ -1,0 +1,4 @@
+<!doctype html><pre id="o">RUN</pre><script>
+navigator.serviceWorker.register('../service-worker.js').then(()=>navigator.serviceWorker.ready).then(async()=>{await new Promise(r=>setTimeout(r,1500));const ks=await caches.keys();const c=await caches.open(ks[0]);const reqs=(await c.keys()).map(r=>new URL(r.url).pathname);
+const m=await (await fetch('../manifest.webmanifest')).json();document.getElementById('o').textContent=JSON.stringify({caches:ks,cached:reqs,manifest:{display:m.display,start_url:m.start_url,icons:m.icons.map(i=>i.sizes)}});}).catch(e=>document.getElementById('o').textContent='ERR '+e);
+</script>

@@ -1,0 +1,21 @@
+<!doctype html><html><body><main id="main"></main><nav></nav><dialog id="dlg"></dialog><div id="toast"></div><pre id="out">RUNNING</pre>
+<script>localStorage.clear();
+const sh=[];for(let i=0;i<40;i+=3){const d=new Date(2026,9,12+i,12);sh.push(d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'));}
+localStorage.setItem('ehWorkoutApp.v1',JSON.stringify({shifts:sh,syncMethod:'pattern'}));window.__TODAY__='2026-10-12';</script>
+<script src="../planner.js"></script><script src="../app.js"></script>
+<script>
+setTimeout(()=>{const P=Planner,A=EHApp,R=[],F=[];const shifts=new Set(sh);let rebuilds=[];
+ for(let i=0;i<28;i++){const t=P.addDays('2026-10-12',i);window.__TODAY__=t;const before=A.state.cycles.length;A.ensurePlan();if(A.state.cycles.length>before)rebuilds.push(t);}
+ const days=A.state.cycles.flatMap(c=>c.days).filter(d=>d.date<'2026-11-09');
+ for(const d of days){const w=A.workoutFor(d);const ty=P.dayType(d.date,shifts);
+  if(P.SESSION[d.type].heavy&&ty!=='off')F.push('heavy on '+ty+' '+d.date);
+  if(ty==='off'&&P.dow(d.date)===0&&d.type!=='REST')F.push('Sunday off not rest '+d.date);
+  if(w.loc==='home'){const items=[].concat(w.warmup,...w.blocks.map(b=>b.items),w.cooldown,w.finisher?w.finisher.items:[]);for(const it of items)if(!P.HOME_EQ.includes(it.equip))F.push('home equip '+it.equip+' '+it.name+' '+d.date);if(w.conditioning&&/Treadmill|SkiErg|Rower|StairMaster/.test(w.conditioning.text))F.push('home machine '+d.date);}
+  R.push(d.date+' '+['Su','Mo','Tu','We','Th','Fr','Sa'][P.dow(d.date)]+' '+ty.padEnd(5)+' '+d.type.padEnd(4)+' '+w.loc);}
+ const starts=A.state.cycles.map(c=>c.start);
+ for(const s of starts.slice(0,4)){const exp=P.addDays(s,5);if(!rebuilds.includes(exp))F.push('no rebuild on day6 of cycle '+s);}
+ // skip test: skip SP on Oct 14 -> must reappear on next off day
+ A.state.log['2026-10-14']={status:'skipped'};A.rebuildFrom('2026-10-15','SP');const nx=A.state.cycles.flatMap(c=>c.days).filter(d=>d.date>'2026-10-14'&&d.type==='SP')[0];const skipRes=nx?('SP rolled to '+nx.date+' ('+nx.dayType+')'):'SP not rescheduled';if(!nx||nx.dayType!=='off')F.push(skipRes);
+ caches.keys().then(k=>{});
+ document.getElementById('out').textContent=JSON.stringify({fail:F,skip:skipRes,rebuildDates:rebuilds,cycleStarts:starts,days:R},null,1);},800);
+</script></body></html>

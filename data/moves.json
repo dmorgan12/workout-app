@@ -1,0 +1,1966 @@
+[
+ {
+  "id": "dbl_front_rack_squat",
+  "name": "Double front-rack squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold two bells at your shoulders, elbows tucked, and squat down until your hips are below your knees, then stand tall.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "goblet_squat",
+  "name": "Goblet squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold one bell at your chest by the horns and squat between your knees, chest up, then drive back up.",
+  "source": "The Complete Guide to Kettlebells for Firefighters",
+  "url": "https://www.youtube.com/watch?v=VOhU1HiTpNM",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "bulgarian_split_squat",
+  "name": "Bulgarian split squat (goblet)",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Back foot on a bench, bell at your chest, lower straight down on the front leg until the back knee nearly touches, then stand.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "cossack_squat",
+  "name": "Cossack squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Wide stance, shift your hips down over one leg while the other stays straight with toes up, then switch sides.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "tempo_goblet_squat",
+  "name": "Tempo goblet squat (4-1-1)",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "A goblet squat taking 4 seconds down, 1 second pause, 1 second up. App swap for EH's stability-ball hack squat.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "zombie_squat",
+  "name": "Zombie squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Arms held straight out in front (or bell at the chest) and squat with an upright torso; trains a strong, balanced squat.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "front_rack_squat_single",
+  "name": "Single front-rack squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "One bell racked at one shoulder; squat while resisting the lean to that side, then switch.",
+  "source": "Do a Station Workout WITH ME",
+  "url": "https://www.youtube.com/watch?v=Y6vcZxiL7Rg",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "heels_elev_squat",
+  "name": "Heels-elevated squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Heels on a plate or board, squat straight down letting the knees travel forward. Deep, knee-friendly quad work.",
+  "source": "Firefighter Weak Link (short)",
+  "url": "https://www.youtube.com/watch?v=9WRzoaSrKqA",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "sumo_squat",
+  "name": "Sumo squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Wide stance, toes out, bell hanging between your legs; sit straight down and stand up squeezing the glutes.",
+  "source": "Pass the CPAT on Your First Try",
+  "url": "https://www.youtube.com/watch?v=U9jyZCxF9cY",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "b_stance_squat",
+  "name": "B-stance squat",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "One foot slightly back on its toes as a kickstand; squat with most of your weight on the front leg.",
+  "source": "Do a Station Workout WITH ME",
+  "url": "https://www.youtube.com/watch?v=Y6vcZxiL7Rg",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "spanish_squat",
+  "name": "Spanish squat",
+  "category": "squat",
+  "equipment": [
+   "Band",
+   "BW"
+  ],
+  "explain": "Band behind your knees anchored in front, sit back into a squat with shins vertical and hold. Builds knee strength with little pain.",
+  "source": "Stop Training Legs Like A Bodybuilder (short)",
+  "url": "https://www.youtube.com/watch?v=elPV_y3TmjA",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "split_stance_iso",
+  "name": "Split-stance iso hold",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Hold the bottom of a split squat without moving for 30-45 seconds; isometrics strengthen tendons around the knee.",
+  "source": "Stop Training Legs Like A Bodybuilder (short)",
+  "url": "https://www.youtube.com/watch?v=elPV_y3TmjA",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "reverse_lunge",
+  "name": "Reverse lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Step one foot back and lower until both knees are about 90 degrees, then push through the front foot to stand.",
+  "source": "Train Like a Firefighter at Home With Just ONE Kettlebell",
+  "url": "https://www.youtube.com/watch?v=nPkHGm0rB04",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "forward_lunge",
+  "name": "Forward lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Step forward, lower until the back knee nearly touches, then push back to the start.",
+  "source": "Train Like a Firefighter at Home With Just ONE Kettlebell",
+  "url": "https://www.youtube.com/watch?v=nPkHGm0rB04",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "reverse_suitcase_lunge",
+  "name": "Reverse suitcase lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold a weight at your side like a suitcase and reverse lunge without leaning toward it.",
+  "source": "Get Fit Like a FIREFIGHTER With These 6 MUST KNOW Exercises",
+  "url": "https://www.youtube.com/watch?v=3muo_YtT02s",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "ffe_reverse_lunge",
+  "name": "Front-foot-elevated reverse lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Front foot on a small plate or step, step back into a lunge. The elevation gives a deeper, knee-friendlier range.",
+  "source": "Stop Training Legs Like A Bodybuilder (short)",
+  "url": "https://www.youtube.com/watch?v=elPV_y3TmjA",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "overhead_reverse_lunge",
+  "name": "Overhead reverse lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Lock a bell overhead and reverse lunge while keeping the arm straight and ribs down.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "side_lunge",
+  "name": "Side lunge",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Step wide to one side, sit your hips back over that foot, then push back to center.",
+  "source": "Tight Hips? Try This Kettlebell Exercise (short)",
+  "url": "https://www.youtube.com/watch?v=xMc2jcCpqGY",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "squat_to_halo",
+  "name": "Squat to halo",
+  "category": "squat",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold a bell by the horns, squat, stand, then circle it around your head once. Mobility under load.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "barbell_back_squat",
+  "name": "Barbell back squat",
+  "category": "squat",
+  "equipment": [
+   "Barbell"
+  ],
+  "explain": "Bar on your upper back, squat to depth with a braced core, then stand. Standard lift exception.",
+  "source": "Standard lift (approved non-EH exception)",
+  "url": "",
+  "eh": false,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "barbell_front_squat",
+  "name": "Barbell front squat",
+  "category": "squat",
+  "equipment": [
+   "Barbell"
+  ],
+  "explain": "Bar on the front of your shoulders, elbows high, squat to depth staying upright. Standard lift exception.",
+  "source": "Standard lift (approved non-EH exception)",
+  "url": "",
+  "eh": false,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "trap_bar_deadlift",
+  "name": "Trap bar deadlift",
+  "category": "hinge",
+  "equipment": [
+   "Barbell"
+  ],
+  "explain": "Stand inside a trap bar, hinge and grip the handles, brace, and stand up driving through the floor.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "barbell_deadlift",
+  "name": "Barbell deadlift",
+  "category": "hinge",
+  "equipment": [
+   "Barbell"
+  ],
+  "explain": "Bar over mid-foot, hinge and grip, flat back, stand by pushing the floor away. Standard lift exception.",
+  "source": "Standard lift (approved non-EH exception)",
+  "url": "",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "kb_deadlift",
+  "name": "KB/DB deadlift",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Weight between your feet, push your hips back with a flat back, grab it, and stand tall.",
+  "source": "Tight Hips? Try This Kettlebell Exercise (short)",
+  "url": "https://www.youtube.com/watch?v=xMc2jcCpqGY",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "b_stance_rdl",
+  "name": "B-stance RDL",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Back foot on its toes as a kickstand, push your hips back on the front leg with a soft knee and flat back, then stand.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "single_leg_rdl",
+  "name": "Single-leg RDL",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Balance on one leg and hinge forward as the other leg reaches back, then return tall.",
+  "source": "Get MORE Gains in LESS Time (KB supersets)",
+  "url": "https://www.youtube.com/watch?v=-90J21HRoYc",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "incline_deadlift",
+  "name": "Incline deadlift",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "A deadlift variation from the pull-focused workout; hinge with flat back and stand fully.",
+  "source": "MY WORKOUT After a Firefighter Shift (Pull Focused)",
+  "url": "https://www.youtube.com/watch?v=Ggt4xwnPaY0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "russian_swing",
+  "name": "Kettlebell swing (Russian)",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hike the bell back between your legs and snap your hips forward so it floats to chest height.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "american_swing",
+  "name": "American swing",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "A swing that continues to overhead with arms straight; finish with the bell stacked above you.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "single_arm_swing",
+  "name": "Single-arm KB swing",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "The swing with one hand; resist your torso twisting.",
+  "source": "This Viral Workout is PERFECT for Firefighters",
+  "url": "https://www.youtube.com/watch?v=zTyg5C7xSHM",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "kickstand_swing",
+  "name": "Kickstand swing",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Swing with one foot back as a kickstand to load one hip more.",
+  "source": "Get MORE Gains in LESS Time (KB supersets)",
+  "url": "https://www.youtube.com/watch?v=-90J21HRoYc",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "kb_clean",
+  "name": "Kettlebell clean",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hike the bell back and pop the hips to bring it to the rack at your shoulder, elbow tucked.",
+  "source": "The Complete Guide to Kettlebells for Firefighters",
+  "url": "https://www.youtube.com/watch?v=VOhU1HiTpNM",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "tactical_clean",
+  "name": "Tactical clean",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "A two-hand-on-horns style clean to the chest; snap the hips and catch softly.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "kb_snatch",
+  "name": "Kettlebell snatch",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "One continuous swing to overhead, punching through at the top so the bell lands softly.",
+  "source": "The Complete Guide to Kettlebells for Firefighters",
+  "url": "https://www.youtube.com/watch?v=VOhU1HiTpNM",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "tactical_snatch",
+  "name": "Tactical snatch",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Explosive hip drive bringing the bell overhead in one motion.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "windmill",
+  "name": "Kettlebell windmill",
+  "category": "hinge",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Bell locked overhead, push your hip out and slide the free hand down your leg while watching the bell.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "ham_sliders",
+  "name": "Hamstring eccentric sliders",
+  "category": "hinge",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "In a bridge with heels on sliders or a towel, slowly slide your feet out in small steps, then reset.",
+  "source": "Get MORE Gains in LESS Time (KB supersets)",
+  "url": "https://www.youtube.com/watch?v=-90J21HRoYc",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "glute_bridge",
+  "name": "Glute bridge (hold)",
+  "category": "hinge",
+  "equipment": [
+   "BW",
+   "DB"
+  ],
+  "explain": "On your back, feet planted, squeeze your glutes to lift your hips and hold.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "kb_pushup",
+  "name": "Kettlebell push-up",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB",
+   "BW"
+  ],
+  "explain": "Push-up with hands on bell handles for a deeper range and neutral wrists.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "pushup",
+  "name": "Push-up",
+  "category": "push",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Rigid plank, lower your chest to just above the floor, then press up.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "hand_release_pushup",
+  "name": "Hand-release push-up",
+  "category": "push",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Lower all the way to the floor, lift your hands an inch, then press back up. Forces full depth.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "deficit_pushup",
+  "name": "Deficit push-up",
+  "category": "push",
+  "equipment": [
+   "BW",
+   "DB",
+   "KB"
+  ],
+  "explain": "Hands on handles or plates so your chest drops below hand level for extra range.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "glute_bridge_floor_press",
+  "name": "Glute bridge floor press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "On your back with hips up in a bridge, press one or two bells from your chest.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "rotational_press",
+  "name": "Rotational overhead press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Press the bell overhead while rotating your torso away from it, pivoting the back foot.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "clean_to_press",
+  "name": "KB clean to press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Clean the bell to your shoulder, then press it overhead. Every rep starts from the ground.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": true
+ },
+ {
+  "id": "z_press",
+  "name": "Z press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Sit on the floor legs straight and press overhead with no back support. Exposes weak cores fast.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "kb_push_press",
+  "name": "KB push press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Small dip of the knees, then drive up and use that pop to press the bell overhead.",
+  "source": "Get MORE Gains in LESS Time (KB supersets)",
+  "url": "https://www.youtube.com/watch?v=-90J21HRoYc",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": true
+ },
+ {
+  "id": "tall_kneel_push_press",
+  "name": "Tall-kneeling push press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Kneel tall, snap your hips forward, and use that pop to drive the bell overhead.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "half_kneel_press",
+  "name": "Half-kneeling press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "One knee down, press the bell overhead on the same side as the down knee; anti-rotation.",
+  "source": "6 Simple Exercises That Build Firefighter Strength FAST",
+  "url": "https://www.youtube.com/watch?v=7J8AcJUTAkM",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "bottoms_up_press",
+  "name": "Half-kneeling bottoms-up KB press",
+  "category": "push",
+  "equipment": [
+   "KB"
+  ],
+  "explain": "Hold the bell upside down by the handle and press it overhead; great for shoulder health.",
+  "source": "The Best Exercise To Reduce Shoulder Pain (short)",
+  "url": "https://www.youtube.com/watch?v=6Hz8pYaYBq0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "single_arm_ohp",
+  "name": "Single-arm overhead press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Bell racked at the shoulder, brace and press straight overhead.",
+  "source": "This Viral Workout is PERFECT for Firefighters",
+  "url": "https://www.youtube.com/watch?v=zTyg5C7xSHM",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": true
+ },
+ {
+  "id": "alt_ohp",
+  "name": "Alternating overhead press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Two bells at your shoulders, press one up at a time.",
+  "source": "Do a Station Workout WITH ME",
+  "url": "https://www.youtube.com/watch?v=Y6vcZxiL7Rg",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "viper_press",
+  "name": "Viper press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "A press variation from EH's push day.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "waiter_press",
+  "name": "Waiter clean to waiter press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Clean the bell into a waiter hold (flat palm under it) and press it overhead.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "hollow_press",
+  "name": "Hollow press",
+  "category": "push",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Lie in a hollow hold and press a bell up with one arm without losing the shape.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "neutral_db_press",
+  "name": "Neutral-grip DB press",
+  "category": "push",
+  "equipment": [
+   "DB"
+  ],
+  "explain": "Press dumbbells with palms facing each other; easier on the shoulders.",
+  "source": "The Best Exercise To Reduce Shoulder Pain (short)",
+  "url": "https://www.youtube.com/watch?v=6Hz8pYaYBq0",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "barbell_bench",
+  "name": "Barbell bench press",
+  "category": "push",
+  "equipment": [
+   "Barbell"
+  ],
+  "explain": "Lie on a bench and press the bar from your chest. Standard lift exception.",
+  "source": "Standard lift (approved non-EH exception)",
+  "url": "",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "barbell_push_press",
+  "name": "Barbell push press",
+  "category": "push",
+  "equipment": [
+   "Barbell"
+  ],
+  "explain": "Dip and drive to press the bar overhead. Standard lift exception.",
+  "source": "Standard lift (approved non-EH exception)",
+  "url": "",
+  "eh": false,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "pullup",
+  "name": "Pull-ups",
+  "category": "pull",
+  "equipment": [
+   "Pullup bar"
+  ],
+  "explain": "Hang from a bar and pull your chest up toward it. Band-assist if needed.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": false
+ },
+ {
+  "id": "eccentric_pullup",
+  "name": "Eccentric pull-up",
+  "category": "pull",
+  "equipment": [
+   "Pullup bar"
+  ],
+  "explain": "Jump or step to the top and lower yourself for 5 seconds.",
+  "source": "MY WORKOUT After a Firefighter Shift (Pull Focused)",
+  "url": "https://www.youtube.com/watch?v=Ggt4xwnPaY0",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "lat_pulldown",
+  "name": "Lat pulldown",
+  "category": "pull",
+  "equipment": [
+   "Machine"
+  ],
+  "explain": "Pull the bar to your upper chest with elbows driving down.",
+  "source": "MY WORKOUT After a Firefighter Shift (Pull Focused)",
+  "url": "https://www.youtube.com/watch?v=Ggt4xwnPaY0",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "gorilla_row",
+  "name": "Alternating gorilla row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Wide hinge with two bells on the floor; row one at a time while the other pushes into the floor.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "locomotive_row",
+  "name": "Locomotive row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hinged with a bell in each hand, row them alternately like train pistons.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "renegade_row",
+  "name": "Renegade row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "In a plank on two bells, row one to your hip without your hips twisting.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "renegade_row_pushup",
+  "name": "Renegade row with push-up",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Push-up on the bells, then a row on each side.",
+  "source": "This Viral Workout is PERFECT for Firefighters",
+  "url": "https://www.youtube.com/watch?v=zTyg5C7xSHM",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "bird_dog_row",
+  "name": "Bird dog row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "On hands and knees, extend the opposite leg back and row the bell to your ribs without tipping.",
+  "source": "Exercises I STOPPED Doing as a Firefighter",
+  "url": "https://www.youtube.com/watch?v=WPrv0BqeHBU",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "bench_row",
+  "name": "Bench-supported row",
+  "category": "pull",
+  "equipment": [
+   "DB",
+   "KB"
+  ],
+  "explain": "One hand and knee on a bench, flat back, row the weight to your hip.",
+  "source": "If I Could Only Do 6 Exercises as a Firefighter",
+  "url": "https://www.youtube.com/watch?v=nJvnOoiAmds",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": true
+ },
+ {
+  "id": "plank_row",
+  "name": "Plank row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "In a high plank with one hand on a bell, row it up without twisting.",
+  "source": "Exercises I STOPPED Doing as a Firefighter",
+  "url": "https://www.youtube.com/watch?v=WPrv0BqeHBU",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "single_arm_row",
+  "name": "Single-arm row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hinge with a hand braced, row the bell to your hip.",
+  "source": "The Complete Guide to Kettlebells for Firefighters",
+  "url": "https://www.youtube.com/watch?v=VOhU1HiTpNM",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": true,
+  "perSide": true
+ },
+ {
+  "id": "ballistic_row",
+  "name": "Ballistic row",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "An explosive row from the hang driven by the hips and back.",
+  "source": "Pass the CPAT on Your First Try",
+  "url": "https://www.youtube.com/watch?v=U9jyZCxF9cY",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "kb_high_pull",
+  "name": "KB high pull",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Swing-style hip snap pulling the bell to chest height with elbows high.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "kb_curl_pullover",
+  "name": "KB curl to pullover",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Lying on your back, curl the bell to your chest, then take it overhead in a pullover.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "horn_curl",
+  "name": "Horn curl",
+  "category": "pull",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold the bell by the horns and curl it to your chin.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "concentration_curl",
+  "name": "Concentration curl",
+  "category": "pull",
+  "equipment": [
+   "DB",
+   "KB"
+  ],
+  "explain": "Seated, elbow on your inner thigh, curl slowly.",
+  "source": "MY WORKOUT After a Firefighter Shift (Pull Focused)",
+  "url": "https://www.youtube.com/watch?v=Ggt4xwnPaY0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "hollow_hold",
+  "name": "Hollow hold",
+  "category": "core",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Low back pressed to the floor, lift shoulders and legs a few inches and hold.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "bear_plank",
+  "name": "Bear plank",
+  "category": "core",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "On hands and toes, knees hovering an inch off the floor; hold rock solid.",
+  "source": "THE BEST Functional Push Workout",
+  "url": "https://www.youtube.com/watch?v=sniB7MPvnYk",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "bear_plank_drag",
+  "name": "Bear plank KB drag",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "In a bear plank, reach under and drag the bell across to the other side.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "ns_drag",
+  "name": "North-south KB drag",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "In a plank, drag the bell forward and back without your hips moving.",
+  "source": "The Only 6 Core Exercises Firefighters Need",
+  "url": "https://www.youtube.com/watch?v=usgG2N0J_w4",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "kb_chop",
+  "name": "Kettlebell chop",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Diagonal chop from high to low across your body, rotating through hips and trunk.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "half_kneel_chop",
+  "name": "Half-kneeling cable chop",
+  "category": "core",
+  "equipment": [
+   "Machine",
+   "Band"
+  ],
+  "explain": "Half-kneeling, pull a cable or band diagonally across your body.",
+  "source": "Firefighter Weak Link (short)",
+  "url": "https://www.youtube.com/watch?v=9WRzoaSrKqA",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "kb_uppercut",
+  "name": "Kettlebell uppercut",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Drive a bell up and across like an uppercut using hip rotation.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "halo_rotation",
+  "name": "KB halo with rotation",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Circle the bell around your head and add a trunk turn.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "around_world",
+  "name": "Around the world with rotation",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Pass the bell around your body hand to hand, adding rotation.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "bird_dog",
+  "name": "Bird dog",
+  "category": "core",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "On hands and knees, extend opposite arm and leg, pause, return.",
+  "source": "MY WORKOUT After a Firefighter Shift (Pull Focused)",
+  "url": "https://www.youtube.com/watch?v=Ggt4xwnPaY0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "side_plank",
+  "name": "Side plank",
+  "category": "core",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "On one forearm, body straight, hips high; hold.",
+  "source": "MY WORKOUT After a Firefighter Shift (Pull Focused)",
+  "url": "https://www.youtube.com/watch?v=Ggt4xwnPaY0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "suitcase_march",
+  "name": "Banded/suitcase march",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB",
+   "Band"
+  ],
+  "explain": "Weight in one hand, march slowly lifting knees without leaning.",
+  "source": "If I Could Only Do 6 Exercises as a Firefighter",
+  "url": "https://www.youtube.com/watch?v=nJvnOoiAmds",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "goblet_march",
+  "name": "Goblet march",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Hold a bell at your chest and march in place slowly.",
+  "source": "Get MORE Gains in LESS Time (KB supersets)",
+  "url": "https://www.youtube.com/watch?v=-90J21HRoYc",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "overhead_march",
+  "name": "Single overhead march",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Lock a bell overhead and march in place.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "split_stance_exchange",
+  "name": "Split-stance KB exchange",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "In a split stance, pass the bell hand to hand under the front leg.",
+  "source": "EH The Fireground 10",
+  "url": "https://www.everydayheroesfitness.com/resources/10-kettlebell-movements-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": true
+ },
+ {
+  "id": "gun_slingers",
+  "name": "Gun slingers",
+  "category": "core",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Shoulder rotation drill with a light bell from EH's shoulder short.",
+  "source": "The Best Exercise To Reduce Shoulder Pain (short)",
+  "url": "https://www.youtube.com/watch?v=6Hz8pYaYBq0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "farmers_walk",
+  "name": "Farmer's walk",
+  "category": "carry",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Heavy weight in each hand, walk tall for distance.",
+  "source": "EH 4-Day Kettlebell Foundations",
+  "url": "https://www.everydayheroesfitness.com/firefighter-kettlebell-foundations",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "suitcase_carry",
+  "name": "Suitcase carry",
+  "category": "carry",
+  "equipment": [
+   "KB",
+   "DB"
+  ],
+  "explain": "Weight in one hand only; walk without leaning.",
+  "source": "7 Functional Movements Every Firefighter Needs",
+  "url": "https://www.youtube.com/watch?v=G_rz5-K6Cqg",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "equipment_carry",
+  "name": "Equipment carry",
+  "category": "carry",
+  "equipment": [
+   "KB",
+   "DB",
+   "Gear"
+  ],
+  "explain": "Carry awkward gear or a heavy bell for distance like on the job.",
+  "source": "Pass the CPAT on Your First Try",
+  "url": "https://www.youtube.com/watch?v=U9jyZCxF9cY",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "hose_drag",
+  "name": "Hose drag",
+  "category": "carry",
+  "equipment": [
+   "Gear"
+  ],
+  "explain": "Drag a charged line or sled backward or forward.",
+  "source": "Pass the CPAT on Your First Try",
+  "url": "https://www.youtube.com/watch?v=U9jyZCxF9cY",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "victim_drag",
+  "name": "Victim drag",
+  "category": "carry",
+  "equipment": [
+   "Gear"
+  ],
+  "explain": "Drag a dummy or heavy bag backward for distance.",
+  "source": "Pass the CPAT on Your First Try",
+  "url": "https://www.youtube.com/watch?v=U9jyZCxF9cY",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "burpee",
+  "name": "Burpee",
+  "category": "conditioning",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Squat down, jump feet back, chest to floor, jump feet in, jump up.",
+  "source": "Stop Feeling Out of Breath on Duty (Firefighter HIIT)",
+  "url": "https://www.youtube.com/watch?v=tJ-47BEDWME",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "jump_squat",
+  "name": "Pop squat / jump squat",
+  "category": "conditioning",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Squat and explode into a jump, land softly.",
+  "source": "Stop Feeling Out of Breath on Duty (Firefighter HIIT)",
+  "url": "https://www.youtube.com/watch?v=tJ-47BEDWME",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "plyo_lunge",
+  "name": "Plyometric lunge",
+  "category": "conditioning",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Jump and switch legs in a lunge.",
+  "source": "Stop Feeling Out of Breath on Duty (Firefighter HIIT)",
+  "url": "https://www.youtube.com/watch?v=tJ-47BEDWME",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "ball_slam",
+  "name": "Ball slams",
+  "category": "conditioning",
+  "equipment": [
+   "Machine"
+  ],
+  "explain": "Lift a slam ball overhead and throw it down hard.",
+  "source": "Every Firefighter Should Train in FULL GEAR",
+  "url": "https://www.youtube.com/watch?v=dtZree-8cpk",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "battle_rope",
+  "name": "Battle rope",
+  "category": "conditioning",
+  "equipment": [
+   "Machine"
+  ],
+  "explain": "Fast alternating waves with the rope.",
+  "source": "Every Firefighter Should Train in FULL GEAR",
+  "url": "https://www.youtube.com/watch?v=dtZree-8cpk",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "tire_stepup",
+  "name": "Tire step-up",
+  "category": "conditioning",
+  "equipment": [
+   "Gear"
+  ],
+  "explain": "Alternate stepping up onto a tire.",
+  "source": "Every Firefighter Should Train in FULL GEAR",
+  "url": "https://www.youtube.com/watch?v=dtZree-8cpk",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "ski_erg",
+  "name": "SkiErg",
+  "category": "conditioning",
+  "equipment": [
+   "Machine"
+  ],
+  "explain": "Pull the handles down driving from hips and lats.",
+  "source": "Post-Shift Routine + Hyrox Training",
+  "url": "https://www.youtube.com/watch?v=pMZA5-tVsRg",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "rower",
+  "name": "Rower",
+  "category": "conditioning",
+  "equipment": [
+   "Machine"
+  ],
+  "explain": "Legs, then hips, then arms; reverse on the return.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "stairmaster",
+  "name": "StairMaster",
+  "category": "conditioning",
+  "equipment": [
+   "Machine"
+  ],
+  "explain": "Steady stair climbing.",
+  "source": "EH 7-Day Functional Training Split",
+  "url": "https://www.everydayheroesfitness.com/resources/7-day-functional-training-split-first-responders",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "run_outdoor",
+  "name": "Run (outdoors)",
+  "category": "conditioning",
+  "equipment": [
+   "Run"
+  ],
+  "explain": "Easy-to-hard running outside depending on the day.",
+  "source": "EH Zero to Hero 10K",
+  "url": "https://www.everydayheroesfitness.com/resources/zero-to-hero-10k-program",
+  "eh": true,
+  "knee": false,
+  "kneeStress": true,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "brisk_walk",
+  "name": "Brisk (uphill) walk",
+  "category": "conditioning",
+  "equipment": [
+   "Run",
+   "BW"
+  ],
+  "explain": "Fast walk, hills if available; aerobic base work.",
+  "source": "The FASTEST Way to Improve Cardio",
+  "url": "https://www.youtube.com/watch?v=cOgleHNpBo4",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "ruck",
+  "name": "Ruck",
+  "category": "conditioning",
+  "equipment": [
+   "Run",
+   "Gear"
+  ],
+  "explain": "Walk with a loaded pack at conversational pace.",
+  "source": "The FASTEST Way to Improve Cardio",
+  "url": "https://www.youtube.com/watch?v=cOgleHNpBo4",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "hip_9090",
+  "name": "90/90 hip rotations",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Sit with both knees at 90 degrees and rotate them side to side without your hands.",
+  "source": "Burn 2X the Calories in HALF the Time (KB EMOM)",
+  "url": "https://www.youtube.com/watch?v=9MceW3wB6x0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "band_walk",
+  "name": "Banded lateral / monster walk",
+  "category": "mobility",
+  "equipment": [
+   "Band"
+  ],
+  "explain": "Band around the legs, quarter squat, step sideways then diagonally.",
+  "source": "Burn 2X the Calories in HALF the Time (KB EMOM)",
+  "url": "https://www.youtube.com/watch?v=9MceW3wB6x0",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "couch_stretch",
+  "name": "Couch stretch",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Back knee on a pad, shin up a couch, front foot planted, squeeze the glute. Opens quads and hip flexors.",
+  "source": "Half Marathon Prep Ep. 2",
+  "url": "https://www.youtube.com/watch?v=3eSFUZL3RsY",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "cat_cow",
+  "name": "Cat cow",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "On hands and knees, alternate arching and rounding the back slowly.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "thread_needle",
+  "name": "Thread the needle",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "On hands and knees, slide one arm under your body and rotate.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "deep_squat_rock",
+  "name": "Deep squat rock",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Sit in a deep squat and rock gently side to side to open the ankles.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "foam_roll_tspine",
+  "name": "Foam roller T-spine extensions",
+  "category": "mobility",
+  "equipment": [
+   "BW"
+  ],
+  "explain": "Roller under your upper back, extend over it, 3 breaths per segment.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "banded_hip_swivel",
+  "name": "Banded hip swivel",
+  "category": "mobility",
+  "equipment": [
+   "Band"
+  ],
+  "explain": "Band high in the groin, walk out for tension and swivel the hip.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "banded_hip_flexor",
+  "name": "Banded half-kneeling hip flexor",
+  "category": "mobility",
+  "equipment": [
+   "Band",
+   "BW"
+  ],
+  "explain": "Half-kneeling with band tension on the hip; push hips forward gently.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": true,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ },
+ {
+  "id": "worlds_greatest",
+  "name": "Banded world's greatest stretch",
+  "category": "mobility",
+  "equipment": [
+   "Band",
+   "BW"
+  ],
+  "explain": "Lunge, hand down, rotate the other arm to the ceiling.",
+  "source": "EH Mobility Masterclass",
+  "url": "https://www.everydayheroesfitness.com/resources/mobility-mastery",
+  "eh": true,
+  "knee": false,
+  "kneeStress": false,
+  "heavy": false,
+  "perSide": false
+ }
+]
